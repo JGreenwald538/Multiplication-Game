@@ -1,0 +1,1 @@
+This is my little multiplication game. You start it and it asks you 10 randomly generated multiplication questions they involve numbers from 1-12. At the end it tells you how many you got wrong and how many you got right. Then it prompts you to play again.
